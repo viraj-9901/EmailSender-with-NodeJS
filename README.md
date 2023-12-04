@@ -1,0 +1,1 @@
+Build a basic email sending application with the help of NodeJS and Mailtrap library.
